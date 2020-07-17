@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![github](https://user-images.githubusercontent.com/37444245/87726167-22df1800-c7dc-11ea-85c6-cbb756b5669d.gif)
 
+## I work on
+![CSS](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/175/square_64/csslang.png) ![JavaScript](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/205/square_64/javascriptlang.png) ![React](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/square_64/react.png) ![Vue](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/036/square_64/vue.png) ![Figma](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/square_64/figma-1-logo.png)
