@@ -7,3 +7,6 @@
 <a href="https://medium.com/@tanisha031199"><img src="https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/medium.png" alt="medium handle"/></a>
 <a href="https://codepen.io/tanisha03"><img src="https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/codepen.png" alt="codepen handle"/></a>
 <a href="https://a11y-friendly.netlify.app/"><img src="https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/a11y.png" alt="accessibility blog"/></a>
+
+
+Fine me at [tanishasabherwal.me](tanishasabherwal.me)
