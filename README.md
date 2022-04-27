@@ -9,4 +9,4 @@
 <a href="https://a11y-friendly.netlify.app/"><img src="https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/a11y.png" alt="accessibility blog"/></a>
 
 
-Fine me at [tanishasabherwal.me](tanishasabherwal.me)
+Find me at [tanishasabherwal.me](tanishasabherwal.me)
